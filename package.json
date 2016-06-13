@@ -1,0 +1,22 @@
+{
+  "name": "autovoice-bot",
+  "version": "1.0.0",
+  "description": "Voice router for Discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maneesh-Gona/autoVoice-bot.git"
+  },
+  "author": "Maneesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maneesh-Gona/autoVoice-bot/issues"
+  },
+  "homepage": "https://github.com/Maneesh-Gona/autoVoice-bot#readme",
+  "dependencies": {
+    "discord.js": "^8.0.0"
+  }
+}
